@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Elena's Website"
+title: "Elena Pesavento Website"
 author_profile: true
 redirect_from: 
   - /about/
